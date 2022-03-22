@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FitBot.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-22T02:33:09" hostname="alien-server" time="0.003">
+  <properties/>
+  <testcase name="appHasAGreeting" classname="FitBot.AppTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
