@@ -1,4 +1,4 @@
-# Mike Botson guide v1 
+# FitBot guide v1 
 
 **Table of contents**
 
